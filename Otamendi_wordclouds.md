@@ -15,14 +15,15 @@ Extracting the data using Pushshift API
 ---------------------------------------
 
 Parameters for searching:
-\* API endpoint: api.pushshift.io/reddit/comment/search
-\* Subreddit: soccer
-\* Search term: Otamendi
-\* Fields to extract: body, subreddit, and created\_utc (date)
-\* Number of comments to download: 1,000
-\* Date boundaries:
-+ Before World Cup: 2017-12-31 to 2018-06-13
-+ During World Cup: after 2018-06-13
+
+-   API endpoint: api.pushshift.io/reddit/comment/search
+-   Subreddit: soccer
+-   Search term: Otamendi
+-   Fields to extract: body, subreddit, and created\_utc (date)
+-   Number of comments to download: 1,000
+-   Date boundaries:
+    -   Before World Cup: 2017-12-31 to 2018-06-13
+    -   During World Cup: after 2018-06-13
 
 ``` r
 # Getting 1,000 comments that mentioned Otamendi about 6 months before the World Cup
