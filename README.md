@@ -1,5 +1,5 @@
 # Wordclouds for Otamendi comments
 
-Plotting words associated with soccer player Nicolas Otamendi in soccer subreddit.
+Plotting words associated with soccer player Nicolas Otamendi in the soccer subreddit.
 
-Click on .md to view code and results.
+Click on the **Otamendi_wordclouds.md** file to view the code and results.
