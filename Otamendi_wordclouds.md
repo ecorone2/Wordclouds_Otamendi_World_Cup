@@ -116,6 +116,6 @@ for_word_cloud %>%
   with(wordcloud(word, n, random.order = F, use.r.layout = F, 
                  min.freq = 3, rot.per = 0, random.color = F, 
                  colors = pal, scale = c(3,0.2)))
-```
 
-![](Otamendi_wordclouds_files/figure-markdown_github/during-1.png)
+# The output for the above code has been suppressed due to offensive language
+```
